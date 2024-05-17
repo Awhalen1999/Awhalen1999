@@ -5,10 +5,13 @@
 
 <h2>About Me</h2>
 
-<p>I attended Memorial University after graduating high school and obtained a Bachelor of Science degree, hoping to enter the medical field. However, after achieving my degree, I realized I have no interest in pursuing a career in medicine and decided to follow something I am truly passionate about: computers and technology. I began learning coding in 2023 through the Get Coding program and haven't looked back! I recently finished my first real-world project using HTML, CSS, and JavaScript and am looking forward to diving deeper into the world of coding, sharpening my skills and knowledge through more advanced technologies and languages in my second module.</p>
+<p>I attended Memorial University after graduating high school and obtained a Bachelor of Science degree, hoping to enter the medical field. However, after achieving my degree, I realized I have no interest in pursuing a career in medicine and decided to follow something I am truly passionate about: computers and technology. I began learning coding in 2023 through the Get Coding program and haven't looked back! </p>
 
 <h2>Projects</h2>
-<li><a href="https://awhalen1999.github.io/Packing-Planner/" target="_blank">:airplane: <strong>Packing Planner<strong> </a></li>
+<li><a href="https://awhalen1999.github.io/Packing-Planner/" target="_blank"> <strong>Packing Planner<strong> </a> :airplane:</li>
+
+<h2>What I'm currently working on</h2>
+<li><a href="https://awhalen1999.github.io/GameOn-Tap" target="_blank"> <strong>GameOn-Tap</strong> </a> :game_die::beers: </li>
 
 
 <h2 align="left">Connect with me:</h2>
