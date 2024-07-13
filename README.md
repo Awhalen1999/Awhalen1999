@@ -12,7 +12,7 @@
 
 <h2>What I'm currently working on</h2>
 <li><a href="https://awhalen1999.github.io/GameOn-Tap" target="_blank"> <strong>GameOn-Tap</strong> </a> 🎲 🍻 </li>
-<li><a href="https://awhalen1999.github.io/SmartSip" target="_blank"> <strong>SmartSip AIp</strong> </a> 🍹 🧠 </li>
+<li><a href="https://awhalen1999.github.io/SmartSip" target="_blank"> <strong>SmartSip AI</strong> </a> 🍹 🧠 </li>
 
 
 
