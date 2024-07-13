@@ -11,7 +11,9 @@
 <li><a href="https://awhalen1999.github.io/Packing-Planner/" target="_blank"> <strong>Packing Planner<strong> </a> :airplane:</li>
 
 <h2>What I'm currently working on</h2>
-<li><a href="https://awhalen1999.github.io/GameOn-Tap" target="_blank"> <strong>GameOn-Tap</strong> </a> :game_die::beers: </li>
+<li><a href="https://awhalen1999.github.io/GameOn-Tap" target="_blank"> <strong>GameOn-Tap</strong> </a> 🎲 🍻 </li>
+<li><a href="https://awhalen1999.github.io/SmartSip" target="_blank"> <strong>SmartSip AIp</strong> </a> 🍹 🧠 </li>
+
 
 
 <h2 align="left">Connect with me:</h2>
