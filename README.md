@@ -9,6 +9,7 @@
 
 <h2>Projects</h2>
 <li><a href="https://awhalen1999.github.io/Packing-Planner/" target="_blank"> <strong>Packing Planner<strong> </a> :airplane:</li>
+<li><a href="https://awhalen1999.github.io/FYB-website/" target="_blank"> <strong>Find Your Balance Massage Therapy</strong> </a> 💆 </li>
 <li><a href="https://awhalen1999.github.io/smart-sip" target="_blank"> <strong>SmartSip AI</strong> </a> 🍹 🧠 </li>
 
 <h2>What I'm currently working on</h2>
