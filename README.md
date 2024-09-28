@@ -1,5 +1,7 @@
 <h1>Alex Whalen :wave:</h1>
-
+ 
+ ![My Avatar](https://awhalen1999_httpss.mj.runVGZ_SQ2oe7o_httpss.mj.runxQ9rJBRj0L8_db173dd9-c834-4f80-9a97-7adec1f01ee5_0.png)
+ 
 <h3>Software development student at <a href="https://www.getcoding.ca/" target="_blank">Get Coding</a></h3>
 
 <h2>About Me</h2>
