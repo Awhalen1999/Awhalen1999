@@ -1,6 +1,6 @@
 <h1>Alex Whalen :wave:</h1>
 
-<h3>Software development student at <a href="https://www.getcoding.ca/" target="_blank">Get Coding</a></h3>
+<h3>Full Stack Software Developer</h3>
 
 <h2>About Me</h2>
 <p>I attended Memorial University after graduating high school and obtained a Bachelor of Science degree, hoping to enter the medical field. However, after achieving my degree, I realized I have no interest in pursuing a career in medicine and decided to follow something I am truly passionate about: computers and technology. I began learning coding in 2023 through the Get Coding program and haven't looked back!</p>
