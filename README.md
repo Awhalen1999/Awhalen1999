@@ -10,13 +10,13 @@
   <li><a href="https://awhalen1999.github.io/Packing-Planner/" target="_blank"><strong>Packing Planner</strong></a> :airplane:</li>
   <li><a href="https://awhalen1999.github.io/GameOn-Tap" target="_blank"><strong>GameOn-Tap</strong></a> 🎲 🍻</li>
   <li><a href="https://awhalen1999.github.io/smart-sip" target="_blank"><strong>SmartSip AI</strong></a> 🍹 🧠</li>
+  <li><a href="https://awhalen1999.github.io/beer-scout" target="_blank"><strong>Beer Scout</strong></a> 🍺 🏷️</li>
 </ul>
 </ul>
 
 <h2>What I'm currently working on</h2>
 <ul>
   <li><strong>CoPackr</strong> 🧳 ✅</li>
-  <li><strong>Beer Scout</strong> 🍺 🏷️</li>
 </ul>
 
 <h2 align="left">Connect with me:</h2>
