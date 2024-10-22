@@ -10,7 +10,7 @@
   <li><a href="https://awhalen1999.github.io/Packing-Planner/" target="_blank"><strong>Packing Planner</strong></a> :airplane:</li>
   <li><a href="https://awhalen1999.github.io/GameOn-Tap" target="_blank"><strong>GameOn-Tap</strong></a> 🎲 🍻</li>
   <li><a href="https://awhalen1999.github.io/smart-sip" target="_blank"><strong>SmartSip AI</strong></a> 🍹 🧠</li>
-  <li><a href="https://awhalen1999.github.io/beer-scout" target="_blank"><strong>Beer Scout</strong></a> 🍺 🏷️</li>
+  <li><a href="https://beerscout.ca/" target="_blank"><strong>Beer Scout</strong></a> 🍺 🏷️</li>
 </ul>
 </ul>
 
