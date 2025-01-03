@@ -17,6 +17,7 @@
 <h2>What I'm currently working on</h2>
 <ul>
   <li><strong>CoPackr</strong> 🧳 ✅</li>
+  <li><strong>Random Bracket</strong> 🆚 🐝</li>
 </ul>
 
 <h2 align="left">Connect with me:</h2>
