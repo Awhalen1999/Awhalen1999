@@ -16,7 +16,7 @@
 
 <h2>What I'm currently working on</h2>
 <ul>
-  <li><strong>kaboodle</strong> 🧳 ✅</li>
+  <li><strong>Kaboodle</strong> 🧳 ✅</li>
   <li><strong>Random Bracket</strong> 🆚 🐝</li>
 </ul>
 
