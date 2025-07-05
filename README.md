@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
