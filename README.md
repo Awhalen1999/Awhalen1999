@@ -4,9 +4,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/alex-whalen-0496b227b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a><a href="https://awhalen.dev/" target="_blank"><img align="center" src="https://awhalen.dev/profile-picture.png" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/alex-whalen-0496b227b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>&nbsp;&nbsp;<a href="https://awhalen.dev/" target="_blank"><img align="center" src="https://awhalen.dev/profile-picture.png" height="40" width="40" /></a>
 </p>
-
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
